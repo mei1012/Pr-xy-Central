@@ -15,7 +15,7 @@
 
 ```sh
 $ git clone https://github.com/mei1012/Pr-xy-Central
-$ cd Prxy-Central
+$ cd Pr-xy-Central
 ```
 
 #### Then host it using any web server
