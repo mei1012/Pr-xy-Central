@@ -18,4 +18,8 @@ $ git clone https://github.com/mei1012/Pr-xy-Central
 $ cd Pr-xy-Central
 ```
 
-#### Then host it using any web server
+ Then host it using any web server
+
+ # Changing the password
+
+You can change the password in script.js by editing line 4
