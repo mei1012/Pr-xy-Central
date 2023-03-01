@@ -4,7 +4,7 @@ var getin = prompt("What is the password?","")
 if (getin=="69420")
 {
 
-location.href='.html'
+location.href='important.html'
 }
 
 else
